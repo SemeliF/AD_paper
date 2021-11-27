@@ -2,7 +2,6 @@ close all
 clear
 clc
 
-%% SEMELI FRANGOPOULOU - SNR 2020452
 
 %% SETUP Environment Variables
 %Set working directory
