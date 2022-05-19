@@ -1,5 +1,5 @@
 # AD_paper
-Code used in the paper 'qEEG Analysis in the Diagnosis of Alzheimer's Disease; Comparison of Functional Connectivity and Spectral Analysis'
+Code used in the paper 'qEEG Analysis in the Diagnosis of Alzheimer's Disease; A Comparison of Functional Connectivity and Spectral Analysis'
 
 To better understand the methodology, the first file that should be opened is "AD_EEG_analysis.m". This code pre-processes the EEG data, calculates the Power Spectral Density (PSD) and the Phase-Locking Values (PLV).
 
